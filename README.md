@@ -1,4 +1,4 @@
-# Rust Template
+# {{ project-name }}
 
 ## Environment Setup
 
